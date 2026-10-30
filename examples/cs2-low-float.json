@@ -1,0 +1,10 @@
+{
+  "app_ids": [730],
+  "include_names": ["AK-47", "M4A1-S"],
+  "exclude_names": ["StatTrak"],
+  "name_mode": "contains",
+  "tradable": true,
+  "float_min": 0,
+  "float_max": 0.1,
+  "include_unknown_metadata": false
+}

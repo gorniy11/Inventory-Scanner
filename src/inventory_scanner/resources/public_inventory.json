@@ -1,0 +1,4694 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-30T11:40:29.427655+00:00",
+  "profile_url": "https://steamcommunity.com/id/RobinWalker/",
+  "provenance": "Публичная выдача Steam Community. Сохранены фактические поля предметов; описания исключены.",
+  "inventories": [
+    {
+      "game": "cs2",
+      "source_total": 6,
+      "reported_total": 6,
+      "pages": 1,
+      "items": [
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "23529531411",
+          "name": "Music Kit | Darren Korb, Hades Music Kit",
+          "market_name": "Music Kit | Darren Korb, Hades Music Kit",
+          "type_name": "High Grade Music Kit",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Music Kit",
+              "CSGO_Type_MusicKit"
+            ],
+            "Quality": [
+              "Normal",
+              "normal"
+            ],
+            "Rarity": [
+              "High Grade",
+              "Rarity_Rare"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%20B3A3B3AB11B993B39BB083B7DBB3C3B33BB2801D9D6DB3",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "inspect payload",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "23529531406",
+          "name": "Genuine Alyx Pin",
+          "market_name": "Genuine Alyx Pin",
+          "type_name": "Genuine Extraordinary Collectible",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Collectible",
+              "CSGO_Type_Collectible"
+            ],
+            "Quality": [
+              "Genuine",
+              "genuine"
+            ],
+            "Rarity": [
+              "Extraordinary",
+              "Rarity_Ancient"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%20%propid:6%",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "23529531405",
+          "name": "Music Kit | Half-Life: Alyx, Anti-Citizen",
+          "market_name": "Music Kit | Half-Life: Alyx, Anti-Citizen",
+          "type_name": "High Grade Music Kit",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Music Kit",
+              "CSGO_Type_MusicKit"
+            ],
+            "Quality": [
+              "Normal",
+              "normal"
+            ],
+            "Rarity": [
+              "High Grade",
+              "Rarity_Rare"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%2068786870CA624868406B586C00681868E06942643BE9EA",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "inspect payload",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "17261368410",
+          "name": "Loyalty Badge",
+          "market_name": "Loyalty Badge",
+          "type_name": "Extraordinary Collectible",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Collectible",
+              "CSGO_Type_Collectible"
+            ],
+            "Quality": [
+              "Normal",
+              "normal"
+            ],
+            "Rarity": [
+              "Extraordinary",
+              "Rarity_Ancient"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%20%propid:6%",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "17261368409",
+          "name": "10 Year Veteran Coin",
+          "market_name": "10 Year Veteran Coin",
+          "type_name": "Extraordinary Collectible",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Collectible",
+              "CSGO_Type_Collectible"
+            ],
+            "Quality": [
+              "Normal",
+              "normal"
+            ],
+            "Rarity": [
+              "Extraordinary",
+              "Rarity_Ancient"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%20%propid:6%",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 730,
+          "asset_id": "3951427743",
+          "name": "5 Year Veteran Coin",
+          "market_name": "5 Year Veteran Coin",
+          "type_name": "Extraordinary Collectible",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Type": [
+              "Collectible",
+              "CSGO_Type_Collectible"
+            ],
+            "Quality": [
+              "Normal",
+              "normal"
+            ],
+            "Rarity": [
+              "Extraordinary",
+              "Rarity_Ancient"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "steam://run/730//+csgo_econ_action_preview%20%propid:6%",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "game": "dota2",
+      "source_total": 543,
+      "reported_total": 60,
+      "pages": 1,
+      "items": [
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "32681754674",
+          "name": "Planetfall - Bracers",
+          "market_name": "Planetfall - Bracers",
+          "type_name": "Mythical Wearable",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Arms",
+              "arms"
+            ],
+            "Hero": [
+              "Earthshaker",
+              "npc_dota_hero_earthshaker"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "28558146626",
+          "name": "Treasure of the Crimson Witness 2023",
+          "market_name": "Treasure of the Crimson Witness 2023",
+          "type_name": "Immortal Treasure chest",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Treasure",
+              "treasure_chest"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "28549207874",
+          "name": "Treasure of the Crimson Witness 2023",
+          "market_name": "Treasure of the Crimson Witness 2023",
+          "type_name": "Immortal Treasure chest",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Treasure",
+              "treasure_chest"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "32681754698",
+          "name": "Planetfall - Head",
+          "market_name": "Planetfall - Head",
+          "type_name": "Mythical Wearable",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Head",
+              "head"
+            ],
+            "Hero": [
+              "Earthshaker",
+              "npc_dota_hero_earthshaker"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "32681754682",
+          "name": "Planetfall - Belt",
+          "market_name": "Planetfall - Belt",
+          "type_name": "Mythical Wearable",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Belt",
+              "belt"
+            ],
+            "Hero": [
+              "Earthshaker",
+              "npc_dota_hero_earthshaker"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "32681754690",
+          "name": "Planetfall - Weapon",
+          "market_name": "Planetfall - Weapon",
+          "type_name": "Mythical Wearable",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Weapon",
+              "weapon"
+            ],
+            "Hero": [
+              "Earthshaker",
+              "npc_dota_hero_earthshaker"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270156635",
+          "name": "Inscribed Moonfall",
+          "market_name": "Inscribed Moonfall",
+          "type_name": "Immortal Wearable",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Inscribed",
+              "strange"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Off-Hand",
+              "offhand_weapon"
+            ],
+            "Hero": [
+              "Luna",
+              "npc_dota_hero_luna"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270156419",
+          "name": "Inscribed The Barren Crown",
+          "market_name": "Inscribed The Barren Crown",
+          "type_name": "Immortal helm",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Inscribed",
+              "strange"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Body - Head",
+              "body_head"
+            ],
+            "Hero": [
+              "Sand King",
+              "npc_dota_hero_sand_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270155876",
+          "name": "Inscribed Searing Dominator",
+          "market_name": "Inscribed Searing Dominator",
+          "type_name": "Immortal helmet",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Inscribed",
+              "strange"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Head",
+              "head"
+            ],
+            "Hero": [
+              "Huskar",
+              "npc_dota_hero_huskar"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270155661",
+          "name": "Inscribed Draining Wight",
+          "market_name": "Inscribed Draining Wight",
+          "type_name": "Immortal Ward",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Inscribed",
+              "strange"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Ability 3",
+              "ability3"
+            ],
+            "Hero": [
+              "Pugna",
+              "npc_dota_hero_pugna"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270154753",
+          "name": "The International 2015 Cursor Pack",
+          "market_name": "The International 2015 Cursor Pack",
+          "type_name": "Mythical Cursor Pack",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Cursor Pack",
+              "cursor_pack"
+            ],
+            "Slot": [
+              "Cursor Pack",
+              "cursor_pack"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6270154752",
+          "name": "Almond the Frondillo",
+          "market_name": "Almond the Frondillo",
+          "type_name": "Immortal Pet",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Summoned Unit",
+              "summon"
+            ],
+            "Hero": [
+              "Axe",
+              "npc_dota_hero_axe"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6196115875",
+          "name": "Feelers of Entwined Fate",
+          "market_name": "Feelers of Entwined Fate",
+          "type_name": "Common arms",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Arms",
+              "arms"
+            ],
+            "Hero": [
+              "Weaver",
+              "npc_dota_hero_weaver"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "6000338928",
+          "name": "Fluted Guard of the Moon Rider",
+          "market_name": "Fluted Guard of the Moon Rider",
+          "type_name": "Uncommon Guard",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Shoulder",
+              "shoulder"
+            ],
+            "Hero": [
+              "Mirana",
+              "npc_dota_hero_mirana"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5833566871",
+          "name": "Bessy the Batmeleon",
+          "market_name": "Bessy the Batmeleon",
+          "type_name": "Legendary mount",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Legendary",
+              "Rarity_Legendary"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Mount",
+              "mount"
+            ],
+            "Hero": [
+              "Batrider",
+              "npc_dota_hero_batrider"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567321859",
+          "name": "Hellstrider",
+          "market_name": "Hellstrider",
+          "type_name": "Mythical Warhorse",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Mount",
+              "mount"
+            ],
+            "Hero": [
+              "Chaos Knight",
+              "npc_dota_hero_chaos_knight"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567321858",
+          "name": "Dark Ruin Crusher",
+          "market_name": "Dark Ruin Crusher",
+          "type_name": "Rare Mace",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Weapon",
+              "weapon"
+            ],
+            "Hero": [
+              "Chaos Knight",
+              "npc_dota_hero_chaos_knight"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567321857",
+          "name": "Dark Ruin Mantle",
+          "market_name": "Dark Ruin Mantle",
+          "type_name": "Common Mantle",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Shoulder",
+              "shoulder"
+            ],
+            "Hero": [
+              "Chaos Knight",
+              "npc_dota_hero_chaos_knight"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567321856",
+          "name": "Dark Ruin Gaze",
+          "market_name": "Dark Ruin Gaze",
+          "type_name": "Uncommon shield",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Off-Hand",
+              "offhand_weapon"
+            ],
+            "Hero": [
+              "Chaos Knight",
+              "npc_dota_hero_chaos_knight"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567321855",
+          "name": "Dark Ruin Helm",
+          "market_name": "Dark Ruin Helm",
+          "type_name": "Uncommon helm",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Head",
+              "head"
+            ],
+            "Hero": [
+              "Chaos Knight",
+              "npc_dota_hero_chaos_knight"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5567263198",
+          "name": "Ancient Rhythms Loading Screen",
+          "market_name": "Ancient Rhythms Loading Screen",
+          "type_name": "Uncommon Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5533883927",
+          "name": "Mercurial's Call",
+          "market_name": "Mercurial's Call",
+          "type_name": "Immortal Alternate Hero Voice",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Immortal",
+              "Rarity_Immortal"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Voice",
+              "voice"
+            ],
+            "Hero": [
+              "Spectre",
+              "npc_dota_hero_spectre"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588281",
+          "name": "Regalia of the Wraith Lord Loading Screen",
+          "market_name": "Regalia of the Wraith Lord Loading Screen",
+          "type_name": "Uncommon Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588280",
+          "name": "Regalia of the Wraith Lord Shoulder",
+          "market_name": "Regalia of the Wraith Lord Shoulder",
+          "type_name": "Common Pauldron",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Shoulder",
+              "shoulder"
+            ],
+            "Hero": [
+              "Wraith King",
+              "npc_dota_hero_skeleton_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588279",
+          "name": "Regalia of the Wraith Lord Helmet",
+          "market_name": "Regalia of the Wraith Lord Helmet",
+          "type_name": "Uncommon Crown",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Head",
+              "head"
+            ],
+            "Hero": [
+              "Wraith King",
+              "npc_dota_hero_skeleton_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588278",
+          "name": "Regalia of the Wraith Lord Gauntlet",
+          "market_name": "Regalia of the Wraith Lord Gauntlet",
+          "type_name": "Common Gauntlet",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Arms",
+              "arms"
+            ],
+            "Hero": [
+              "Wraith King",
+              "npc_dota_hero_skeleton_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588277",
+          "name": "Regalia of the Wraith Lord Sword",
+          "market_name": "Regalia of the Wraith Lord Sword",
+          "type_name": "Uncommon Sword",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Weapon",
+              "weapon"
+            ],
+            "Hero": [
+              "Wraith King",
+              "npc_dota_hero_skeleton_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5512588276",
+          "name": "Regalia of the Wraith Lord Cape",
+          "market_name": "Regalia of the Wraith Lord Cape",
+          "type_name": "Uncommon Cape",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Back",
+              "back"
+            ],
+            "Hero": [
+              "Wraith King",
+              "npc_dota_hero_skeleton_king"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5498251611",
+          "name": "Butter Blunder",
+          "market_name": "Butter Blunder",
+          "type_name": "Rare courier",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Courier",
+              "courier"
+            ],
+            "Slot": [
+              "Courier",
+              "courier"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886268",
+          "name": "Keen Machine Loading Screen",
+          "market_name": "Keen Machine Loading Screen",
+          "type_name": "Rare Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886267",
+          "name": "Lucky Bullet of the Keen Machine",
+          "market_name": "Lucky Bullet of the Keen Machine",
+          "type_name": "Common arms",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Arms",
+              "arms"
+            ],
+            "Hero": [
+              "Sniper",
+              "npc_dota_hero_sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886266",
+          "name": "Heavy Plates of the Keen Machine",
+          "market_name": "Heavy Plates of the Keen Machine",
+          "type_name": "Common Pauldrons",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Shoulder",
+              "shoulder"
+            ],
+            "Hero": [
+              "Sniper",
+              "npc_dota_hero_sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886265",
+          "name": "Cyclopean Helm of the Keen Machine",
+          "market_name": "Cyclopean Helm of the Keen Machine",
+          "type_name": "Rare helm",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Head",
+              "head"
+            ],
+            "Hero": [
+              "Sniper",
+              "npc_dota_hero_sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886264",
+          "name": "Heavy Cloak of the Keen Machine",
+          "market_name": "Heavy Cloak of the Keen Machine",
+          "type_name": "Common Cloak",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Back",
+              "back"
+            ],
+            "Hero": [
+              "Sniper",
+              "npc_dota_hero_sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298886263",
+          "name": "Thud-Gun of the Keen Machine",
+          "market_name": "Thud-Gun of the Keen Machine",
+          "type_name": "Common Gun",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Weapon",
+              "weapon"
+            ],
+            "Hero": [
+              "Sniper",
+              "npc_dota_hero_sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5298195579",
+          "name": "Auspicious Snowl",
+          "market_name": "Auspicious Snowl",
+          "type_name": "Mythical Servant of Selemene",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Auspicious",
+              "lucky"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Courier",
+              "courier"
+            ],
+            "Slot": [
+              "Courier",
+              "courier"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5240994106",
+          "name": "Hoofenpaw",
+          "market_name": "Hoofenpaw",
+          "type_name": "Rare mount",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Wearable",
+              "wearable"
+            ],
+            "Slot": [
+              "Mount",
+              "mount"
+            ],
+            "Hero": [
+              "Luna",
+              "npc_dota_hero_luna"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5045139745",
+          "name": "Effigy Block of Triumph",
+          "market_name": "Effigy Block of Triumph",
+          "type_name": "Rare Tool",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Tool",
+              "tool"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5045139744",
+          "name": "Effigy Block of Triumph",
+          "market_name": "Effigy Block of Triumph",
+          "type_name": "Rare Tool",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Tool",
+              "tool"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "5045139743",
+          "name": "Copper 2014 Compendium Gem",
+          "market_name": "Copper 2014 Compendium Gem",
+          "type_name": "Mythical Relic of Prestige",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Misc",
+              "misc"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4952133930",
+          "name": "The Summit 2 Loading Screen",
+          "market_name": "The Summit 2 Loading Screen",
+          "type_name": "Common Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4952133929",
+          "name": "Arctic Watchtower",
+          "market_name": "Arctic Watchtower",
+          "type_name": "Rare Ward",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Ward",
+              "ward"
+            ],
+            "Slot": [
+              "Ward",
+              "ward"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4952133928",
+          "name": "Demonic Essence",
+          "market_name": "Demonic Essence",
+          "type_name": "Uncommon Hud Skin",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "HUD Skin",
+              "hud_skin"
+            ],
+            "Slot": [
+              "HUD Skin",
+              "hud_skin"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4952133225",
+          "name": "Duskie Loading Screen",
+          "market_name": "Duskie Loading Screen",
+          "type_name": "Common Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4952133224",
+          "name": "Duskie",
+          "market_name": "Duskie",
+          "type_name": "Rare courier",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Courier",
+              "courier"
+            ],
+            "Slot": [
+              "Courier",
+              "courier"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4931680788",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4931680787",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4931680786",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4931680785",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4923483522",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4923483521",
+          "name": "Treasure Redemption Token",
+          "market_name": "Treasure Redemption Token",
+          "type_name": "Rare Treasure Key",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Treasure Key",
+              "key"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4694231295",
+          "name": "SLTV Star Series X Loading Screen",
+          "market_name": "SLTV Star Series X Loading Screen",
+          "type_name": "Common Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4610017883",
+          "name": "SLTV Star Series X Loading Screen",
+          "market_name": "SLTV Star Series X Loading Screen",
+          "type_name": "Common Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4610017882",
+          "name": "SLTV Star Series X HUD",
+          "market_name": "SLTV Star Series X HUD",
+          "type_name": "Common Hud Skin",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Common",
+              "Rarity_Common"
+            ],
+            "Type": [
+              "HUD Skin",
+              "hud_skin"
+            ],
+            "Slot": [
+              "HUD Skin",
+              "hud_skin"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4557866954",
+          "name": "The International 2014 Music Pack",
+          "market_name": "The International 2014 Music Pack",
+          "type_name": "Mythical Music Pack",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Music",
+              "music"
+            ],
+            "Slot": [
+              "Music",
+              "music"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4557866953",
+          "name": "Battle Glory Kill Banner",
+          "market_name": "Battle Glory Kill Banner",
+          "type_name": "Mythical Multi-Kill Banner",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Misc",
+              "misc"
+            ],
+            "Slot": [
+              "Multikill Banner",
+              "multikill_banner"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4557866952",
+          "name": "Assured Victory Shout",
+          "market_name": "Assured Victory Shout",
+          "type_name": "Legendary All Hero Shout",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Legendary",
+              "Rarity_Legendary"
+            ],
+            "Type": [
+              "Misc",
+              "misc"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4557866951",
+          "name": "Taunt: Techies Squint and Laugh",
+          "market_name": "Taunt: Techies Squint and Laugh",
+          "type_name": "Rare Taunt",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Rare",
+              "Rarity_Rare"
+            ],
+            "Type": [
+              "Taunt",
+              "taunt"
+            ],
+            "Slot": [
+              "Taunt",
+              "taunt"
+            ],
+            "Hero": [
+              "Techies",
+              "npc_dota_hero_techies"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4518323468",
+          "name": "Scions of the Sky Loading Screen",
+          "market_name": "Scions of the Sky Loading Screen",
+          "type_name": "Uncommon Loading Screen",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Uncommon",
+              "Rarity_Uncommon"
+            ],
+            "Type": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Slot": [
+              "Loading Screen",
+              "loading_screen"
+            ],
+            "Hero": [
+              "Other",
+              "DOTA_OtherType"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 570,
+          "asset_id": "4518323467",
+          "name": "Sempiternal Revelations",
+          "market_name": "Sempiternal Revelations",
+          "type_name": "Mythical Bundle",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Standard",
+              "unique"
+            ],
+            "Rarity": [
+              "Mythical",
+              "Rarity_Mythical"
+            ],
+            "Type": [
+              "Bundle",
+              "bundle"
+            ],
+            "Slot": [
+              "N/A",
+              "none"
+            ],
+            "Hero": [
+              "Invoker",
+              "npc_dota_hero_invoker"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "game": "tf2",
+      "source_total": 1071,
+      "reported_total": 60,
+      "pages": 1,
+      "items": [
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "16773422856",
+          "name": "Winter 2025 Cosmetic Case",
+          "market_name": "Winter 2025 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2025 Cosmetics Collection",
+              "Winter2025Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15697096876",
+          "name": "Winter 2024 Cosmetic Case",
+          "market_name": "Winter 2024 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2024 Cosmetics Collection",
+              "Winter2024Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "16369267205",
+          "name": "Spectral Stash Case",
+          "market_name": "Spectral Stash Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Spectral Stash Collection",
+              "halloween2025_collection_name"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15008023533",
+          "name": "Name Tag",
+          "market_name": "Name Tag",
+          "type_name": "Level 1 Tool",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Tool",
+              "TF_T"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15007869020",
+          "name": "The Classic",
+          "market_name": "The Classic",
+          "type_name": "Level 69 Sniper Rifle",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15007709292",
+          "name": "The Beggar's Bazooka",
+          "market_name": "The Beggar's Bazooka",
+          "type_name": "Level 98 Rocket Launcher",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Soldier"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15007537549",
+          "name": "Darwin's Danger Shield",
+          "market_name": "Darwin's Danger Shield",
+          "type_name": "Level 10 Shield",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary weapon",
+              "secondary"
+            ],
+            "Class": [
+              "Sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15007475927",
+          "name": "Scream Fortress XVI War Paint Case",
+          "market_name": "Scream Fortress XVI War Paint Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Scream Fortress XVI Collection",
+              "Halloween2024Paintkits_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "15007475926",
+          "name": "Terrifying Trove Case",
+          "market_name": "Terrifying Trove Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Terrifying Trove Collection",
+              "halloween2024_collection_name"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "14355121680",
+          "name": "Winter 2023 Cosmetic Case",
+          "market_name": "Winter 2023 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2023 Cosmetics Collection",
+              "Winter2023Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "14036355386",
+          "name": "Gift Wrap",
+          "market_name": "Gift Wrap",
+          "type_name": "Level 5 Tool",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Tool",
+              "TF_T"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "14036351888",
+          "name": "Winter 2023 Cosmetic Case",
+          "market_name": "Winter 2023 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2023 Cosmetics Collection",
+              "Winter2023Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13928063287",
+          "name": "The Rainblower",
+          "market_name": "The Rainblower",
+          "type_name": "Level 10 Flame Thrower",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Pyro"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13927840158",
+          "name": "The Persian Persuader",
+          "market_name": "The Persian Persuader",
+          "type_name": "Level 10 Sword",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Demoman"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13927740946",
+          "name": "Winter 2023 Cosmetic Case",
+          "market_name": "Winter 2023 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2023 Cosmetics Collection",
+              "Winter2023Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13927736180",
+          "name": "Gift-Stuffed Stocking 2023",
+          "market_name": "Gift-Stuffed Stocking 2023",
+          "type_name": "Level 13 Gift",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13927736179",
+          "name": "Secret Saxton",
+          "market_name": "Secret Saxton",
+          "type_name": "Level 1 Gift",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13865299573",
+          "name": "Tomislav",
+          "market_name": "Tomislav",
+          "type_name": "Level 5 Minigun",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Heavy"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13865201863",
+          "name": "Bone-Chilling Bonanza Case",
+          "market_name": "Bone-Chilling Bonanza Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Bone-Chilling Bonanza Collection",
+              "halloween2023_collection_name"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13629723607",
+          "name": "The Gunboats",
+          "market_name": "The Gunboats",
+          "type_name": "Level 10 Boots",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary weapon",
+              "secondary"
+            ],
+            "Class": [
+              "Soldier"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13629562015",
+          "name": "Summer 2023 War Paint Case",
+          "market_name": "Summer 2023 War Paint Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Summer 2023 Collection",
+              "Summer2023Paintkits_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13629562014",
+          "name": "Summer 2023 Cosmetic Case",
+          "market_name": "Summer 2023 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Summer 2023 Cosmetics Collection",
+              "Summer2023Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13096640897",
+          "name": "The Righteous Bison",
+          "market_name": "The Righteous Bison",
+          "type_name": "Level 30 Indivisible Particle Smasher",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary weapon",
+              "secondary"
+            ],
+            "Class": [
+              "Soldier"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13096627673",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13060097275",
+          "name": "The Bushwacka",
+          "market_name": "The Bushwacka",
+          "type_name": "Level 5 Kukri",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13060072534",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13032783112",
+          "name": "The Flare Gun",
+          "market_name": "The Flare Gun",
+          "type_name": "Level 10 Flare Gun",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary weapon",
+              "secondary"
+            ],
+            "Class": [
+              "Pyro"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13032715362",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005837836",
+          "name": "The Third Degree",
+          "market_name": "The Third Degree",
+          "type_name": "Level 10 Fire Axe",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Pyro"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005738863",
+          "name": "Dueling Mini-Game",
+          "market_name": "Dueling Mini-Game",
+          "type_name": "Level 5 Usable Item",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Usable Item",
+              "TF_UsableItem"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005738862",
+          "name": "Dueling Mini-Game",
+          "market_name": "Dueling Mini-Game",
+          "type_name": "Level 5 Usable Item",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Usable Item",
+              "TF_UsableItem"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005738861",
+          "name": "Dueling Mini-Game",
+          "market_name": "Dueling Mini-Game",
+          "type_name": "Level 5 Usable Item",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Usable Item",
+              "TF_UsableItem"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005738860",
+          "name": "Dueling Mini-Game",
+          "market_name": "Dueling Mini-Game",
+          "type_name": "Level 5 Usable Item",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Usable Item",
+              "TF_UsableItem"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005703793",
+          "name": "The Shortstop",
+          "market_name": "The Shortstop",
+          "type_name": "Level 1 Peppergun",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Scout"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "13005642293",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12925961641",
+          "name": "The Cloak and Dagger",
+          "market_name": "The Cloak and Dagger",
+          "type_name": "Level 5 Invis Watch",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary PDA",
+              "pda2"
+            ],
+            "Class": [
+              "Spy"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12925890385",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12860696775",
+          "name": "The Hitman's Heatmaker",
+          "market_name": "The Hitman's Heatmaker",
+          "type_name": "Level 1 Sniper Rifle",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12860558164",
+          "name": "The Cloak and Dagger",
+          "market_name": "The Cloak and Dagger",
+          "type_name": "Level 5 Invis Watch",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Secondary PDA",
+              "pda2"
+            ],
+            "Class": [
+              "Spy"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12860527653",
+          "name": "Winter 2022 Cosmetic Case",
+          "market_name": "Winter 2022 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2022 Cosmetics Collection",
+              "Winter2022Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12439795121",
+          "name": "The Huo-Long Heater",
+          "market_name": "The Huo-Long Heater",
+          "type_name": "Level 51 Minigun",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Heavy"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12430980807",
+          "name": "Gift-Stuffed Stocking 2022",
+          "market_name": "Gift-Stuffed Stocking 2022",
+          "type_name": "Level 13 Gift",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12430980806",
+          "name": "Secret Saxton",
+          "market_name": "Secret Saxton",
+          "type_name": "Level 1 Gift",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12397751047",
+          "name": "Scream Fortress XIV War Paint Case",
+          "market_name": "Scream Fortress XIV War Paint Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Scream Fortress XIV Collection",
+              "Halloween2022Paintkits_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12397751046",
+          "name": "Ghoulish Gains Case",
+          "market_name": "Ghoulish Gains Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Ghoulish Gains Collection",
+              "halloween2022_collection_name"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12376940227",
+          "name": "Pyrovision Goggles",
+          "market_name": "Pyrovision Goggles",
+          "type_name": "Level 34 Pyrovision Goggles",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Cosmetic",
+              "misc"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12376934966",
+          "name": "Scream Fortress XIV War Paint Case",
+          "market_name": "Scream Fortress XIV War Paint Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Scream Fortress XIV Collection",
+              "Halloween2022Paintkits_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "12376934965",
+          "name": "Ghoulish Gains Case",
+          "market_name": "Ghoulish Gains Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Ghoulish Gains Collection",
+              "halloween2022_collection_name"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043701497",
+          "name": "The Homewrecker",
+          "market_name": "The Homewrecker",
+          "type_name": "Level 5 Sledgehammer",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Pyro"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043495968",
+          "name": "Nessie's Nine Iron",
+          "market_name": "Nessie's Nine Iron",
+          "type_name": "Level 5 Golf Club",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Demoman"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043474911",
+          "name": "Valve Golden Frying Pan",
+          "market_name": "Valve Golden Frying Pan",
+          "type_name": "Level 99 Golden Frying Pan",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Valve",
+              "developer"
+            ],
+            "Type": [
+              "Melee weapon",
+              "melee"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043450026",
+          "name": "Power Up Canteen",
+          "market_name": "Power Up Canteen",
+          "type_name": "Level 50 Usable Item",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Usable Item",
+              "TF_UsableItem"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043280060",
+          "name": "Winter 2021 Cosmetic Case",
+          "market_name": "Winter 2021 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Winter 2021 Cosmetics Collection",
+              "Winter2021Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043261412",
+          "name": "Strange Spirit of Giving",
+          "market_name": "Strange Spirit of Giving",
+          "type_name": "The Badge - Gifts Given: 69",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Strange",
+              "strange"
+            ],
+            "Type": [
+              "Cosmetic",
+              "misc"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043261411",
+          "name": "Noise Maker - Winter Holiday",
+          "market_name": "Noise Maker - Winter Holiday",
+          "type_name": "Level 5 Party Favor",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Party Favor",
+              "TF_Party_Favor"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043261410",
+          "name": "Gift-Stuffed Stocking 2021",
+          "market_name": "Gift-Stuffed Stocking 2021",
+          "type_name": "Level 13 Gift",
+          "amount": 1,
+          "tradable": false,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "11043261409",
+          "name": "Secret Saxton",
+          "market_name": "Secret Saxton",
+          "type_name": "Level 1 Gift",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Gift",
+              "TF_Gift"
+            ],
+            "Class": [
+              "Scout",
+              "Sniper",
+              "Soldier",
+              "Demoman",
+              "Medic",
+              "Heavy",
+              "Pyro",
+              "Spy",
+              "Engineer"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "10720025719",
+          "name": "Summer 2021 Cosmetic Case",
+          "market_name": "Summer 2021 Cosmetic Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Summer 2021 Cosmetics Collection",
+              "Summer2021Cosmetics_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "9362798268",
+          "name": "The Huntsman",
+          "market_name": "The Huntsman",
+          "type_name": "Level 10 Bow",
+          "amount": 1,
+          "tradable": true,
+          "marketable": false,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Primary weapon",
+              "primary"
+            ],
+            "Class": [
+              "Sniper"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        },
+        {
+          "owner_id": "76561197960435530",
+          "app_id": 440,
+          "asset_id": "9362717781",
+          "name": "Scream Fortress XII War Paint Case",
+          "market_name": "Scream Fortress XII War Paint Case",
+          "type_name": "",
+          "amount": 1,
+          "tradable": true,
+          "marketable": true,
+          "tags": {
+            "Quality": [
+              "Unique"
+            ],
+            "Type": [
+              "Crate",
+              "Supply Crate"
+            ],
+            "Collection": [
+              "Scream Fortress XII Collection",
+              "Halloween2020Paintkits_collection"
+            ]
+          },
+          "descriptions": [],
+          "inspect_link": "",
+          "float_value": null,
+          "pattern_seed": null,
+          "metadata_source": "unavailable",
+          "first_seen": 0,
+          "last_seen": 0,
+          "is_new": false
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "steam_id": "76561197960435530",
+    "label": "Robin"
+  }
+}
