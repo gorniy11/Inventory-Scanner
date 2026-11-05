@@ -4,6 +4,8 @@
 
 [![Проверка Python](https://github.com/gorniy11/Inventory-Scanner/actions/workflows/checks.yml/badge.svg)](https://github.com/gorniy11/Inventory-Scanner/actions/workflows/checks.yml)
 
+[Wiki](https://github.com/gorniy11/Inventory-Scanner/wiki) · [MVP](docs/MVP.md) · [План на 4–5 недель](docs/ROADMAP.md) · [Задачи](https://github.com/gorniy11/Inventory-Scanner/issues)
+
 ![Inventory Scanner: реальный публичный инвентарь Steam](docs/scanner.jpg)
 
 ![Настраиваемые фильтры Inventory Scanner](docs/filter.jpg)
